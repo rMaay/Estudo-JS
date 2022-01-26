@@ -1,0 +1,1 @@
+Continuação do estudo de JS com cálculo de IMC utilizando variáveis e funções para reduzir as linhas de códigos, deixando tudo mais "limpo", de fácil compreensão e também legível.
